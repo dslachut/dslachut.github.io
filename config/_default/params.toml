@@ -1,0 +1,14 @@
+[browserconfig]
+  TileColor = "#2d89ef" # default windows 10 blue tile color
+
+[[socialIcons]]
+name = "github"
+url = "https://github.com/dslachut"
+
+[[socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/dslachut"
+
+[[socialIcons]]
+name = "Rss"
+url = "index.xml"
