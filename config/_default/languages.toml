@@ -50,7 +50,7 @@
       avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
       # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
       intro = "Data and code"
-      name = "David Lachut"
+      name = "D.S. Lachut"
       description = "My thoughts and experiences with data and code"
 
     [en-us.params.webmanifest]
