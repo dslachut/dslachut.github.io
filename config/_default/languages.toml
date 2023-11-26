@@ -29,7 +29,7 @@
     # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
     # the default value is set to 'auto'.
     # You can take a look at layouts/index.html for more information.
-    description = "Thoughts and experiences with data and code"
+    description = "System-oriented, human-focused data science"
     mainSections = ['posts']
     toc = true # set to false to disable table of contents 'globally'
     tocOpen = false # set to true to open table of contents by default
@@ -49,9 +49,9 @@
     [en-us.params.author]
       avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
       # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-      intro = "Data and code"
+      intro = "Full-Stack Data Science"
       name = "D.S. Lachut"
-      description = "My thoughts and experiences with data and code"
+      description = "System-oriented, human-focused solutions"
 
     [en-us.params.webmanifest]
       name = "sitename" # will use "params.sitename" or "title" by default
