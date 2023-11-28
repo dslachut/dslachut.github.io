@@ -2,8 +2,11 @@
 title: The Heilmeier Catechism
 date: 2023-11-27T23:00:00-06:00
 draft: false
-tags: 
-categories: 
+tags:
+  - essay
+categories:
+  - '"project planning"'
+  - '"research methods"'
 keywords: 
 publishDate: 2023-11-27T23:00:00-06:00
 ---
