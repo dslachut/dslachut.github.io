@@ -3,8 +3,9 @@ title: The Re-Launch
 date: 2023-11-26T12:00:00-06:00
 draft: false
 tags:
-  - personal
-categories: other
+  - personal-note
+categories:
+  - other
 keywords: 
 publishDate: 2023-11-26T12:00:00-06:00
 ---

@@ -7,7 +7,9 @@ tags:
 categories:
   - '"project planning"'
   - '"research methods"'
-keywords: 
+keywords:
+  - Heilmeier
+  - research
 publishDate: 2023-11-27T23:00:00-06:00
 ---
 *The Heilmeier Catechism is a tool you should use any time you start a data project.*
