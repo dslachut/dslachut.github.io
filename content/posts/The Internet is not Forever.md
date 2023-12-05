@@ -1,5 +1,5 @@
 ---
-title: The Internet is not forever
+title: The Internet is not Forever
 date: 2023-12-04T22:02:52-06:00
 draft: false
 tags:
