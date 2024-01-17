@@ -1,7 +1,7 @@
 ---
 title: PNG Tiles from a GeoTIFF
 date: 2024-01-17T10:36:52-06:00
-draft: true
+draft: false
 tags:
   - how-to
 categories:
