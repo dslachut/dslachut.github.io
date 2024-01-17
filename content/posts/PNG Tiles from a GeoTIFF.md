@@ -75,6 +75,7 @@ gdal2tiles.py \
 - `--srcnodata=0,0,0,0` sets pixels as colorless and transparent where the source file has no data. In the present case, the CDL GeoTIFF provides no data for the Gulf of Mexico, as it is within the bounding box of CONUS, but no crops grow there. This sets that area as transparent so that the `exclude` option can drop those areas from the tileset.
 - `--title=CDL_2022` sets the title of the tileset in the tileset's metadata
 - `2022` is the output folder where the generated tiles will be written.
+
 The output data will then be in a folder like `./2022/{z}/{x}/{y}.png`:  `2022` being the output folder, the only `{z}` being our `--zoom` value of `12`, and `{x}` and `{y}` being the web mercator tile coordinates for the given zoom level.
 
-Here, you can upload the tiles to a server or object storage to serve.
+From here, you can upload the tiles to a server or object storage to serve to a mapping client.
